@@ -1,7 +1,7 @@
 # Remix Deployment Guide for Decentralised_Music_marketplace
 
 <p align="center">
-<img align="center" alt="coding" width="170" src="https://github.com/Platypus96/decentralised_music_marketplace/blob/main/Marketplace.jpg">
+<img align="center" alt="coding" width="300" src="https://github.com/Platypus96/decentralised_music_marketplace/blob/main/Marketplace.jpg">
 </p>
 
 Prerequisites:
